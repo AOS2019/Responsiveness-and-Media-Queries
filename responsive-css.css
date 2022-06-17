@@ -167,12 +167,6 @@ body{
     font-weight: 500;
     color: hsl(0, 100%, 74%);
 }
-footer{
-    margin: 20px;
-    text-align: center;
-    color: hsl(249, 10%, 26%);
-    font-size: 14px;
-}
 
 @media only screen and (min-width: 920px){
     .container{
@@ -217,8 +211,5 @@ footer{
 
     .right .form-footer{
         font-size: 10px;
-    }
-    footer{
-        font-size: 18px;
     }
 }
